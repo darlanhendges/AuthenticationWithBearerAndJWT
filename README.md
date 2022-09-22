@@ -2,4 +2,4 @@
 
 ## _Example_
 
-This api is an example how to implement Authetication and Authorization with Bearer and JWT in Aspnet Core 5.
+This api is an example how to implement Authetication and Authorization with Bearer and JWT in net6.0.
